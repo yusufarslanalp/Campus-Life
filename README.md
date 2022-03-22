@@ -1,13 +1,19 @@
-# Campus-Life
+# Campus-Life-App
 
-This project is my graduatin project. You can find APK file of the application down below.
-For using app download the APK file to an android device.
+- The application was made as a computer engineering graduation project.
 
-The screen shoots of application is down below.
+- This mobile app has created to make life easier for people using gtu campus.
 
-[APK File](app-release.apk)   
+- Academic staff information, bus hours and food menu of the day can be seen from the app.
 
+- Directions within the campus can be obtained through the application.
 
-<img alt="Akademik Personel" src="AppSS/Akademik-Personel.PNG" width="200" height="500"/>
+- The information off 700 academic staff obtained via webscrapping from GTU website.
 
-The report of the project is down below
+- The bus hours information obtained via webscrapping.
+
+- Application works on Android devices.
+
+- You can download the app from [here](app-release.apk)
+
+<img src="Demo.gif" width="300" height="700" />
